@@ -2,7 +2,7 @@
  * This file is part of Gauss-Newton Solver.
  *
  * Copyright (C) 2018-2020 Dongsheng Yang <ydsf16@buaa.edu.cn> (Beihang University)
- * For more information see <https://github.com/ydsf16/gradient_method>
+ * For more information see <https://github.com/ydsf16/Steepest-Descent-Gradient-Method>
  *
  * gradient_method is free software: you can redistribute it and/or modify
  * it under the terms of the GNU General Public License as published by
