@@ -1,2 +1,1 @@
-# Steepest-Descent-Gradient-Method
-最速、梯度下降法实现
+# Steepest-Descent-method-Gradient-method
